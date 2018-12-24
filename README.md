@@ -1,0 +1,2 @@
+# corpus
+lnd fuzzing corpus
